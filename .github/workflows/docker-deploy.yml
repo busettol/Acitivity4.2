@@ -27,7 +27,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: lbusetto/Acitivty4.2:latest
+        tags: lbusetto/acitivty4.2:latest
         
   deploy:
     runs-on: ubuntu-latest
